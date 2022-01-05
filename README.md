@@ -7,4 +7,6 @@
     e) Split config and read logic code into crates
     f) Unit tests
 
-
+2/ Search function to match the string queried and the file content
+    a) Unit test (TDD)
+    b) Implement in code logic
