@@ -1,8 +1,12 @@
 ### USAGE
-`cargo run searchstring example-filename.txt`
+```
+cargo run searchstring example-filename.txt
+```
 For case sensitive search
 
-`CASE_INSENSITIVE=1 cargo run searchstring example-filename.txt`
+```
+CASE_INSENSITIVE=1 cargo run searchstring example-filename.txt
+```
 For case insensitive search
 
 ### Development steps
