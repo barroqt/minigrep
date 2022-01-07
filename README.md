@@ -21,3 +21,5 @@
         * write function
         * setup config with env variable 
     * App error printed on the error stream
+
+* __Make code clearer with Iterators__
