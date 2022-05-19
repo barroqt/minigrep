@@ -11,8 +11,8 @@ pub struct Config {
 impl Config {
     pub fn new(mut args: env::Args) -> Result<Config, &'static str> {
         args.next();
-        
-        if args.len() < 3 {
+
+        if args.len() < 2 {
             return Err("not enough arguments");
         }
 

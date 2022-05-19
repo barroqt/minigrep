@@ -1,0 +1,19 @@
+Development steps
+Two command line arguments: a string to search for and a filename.
+
+Read arguments
+Read file
+Refactore
+Error handling
+Split config and read logic code into crates
+Unit tests
+Search function to match the string queried with the file content
+
+Unit test (TDD)
+Implement in code logic
+Deal with case insensitive search
+unit test
+write function
+setup config with env variable
+App error printed on the error stream
+Make code clearer with Iterators
